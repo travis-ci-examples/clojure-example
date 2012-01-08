@@ -16,6 +16,13 @@ and run tests with
 For travis-ci.org integration bits, see `.travis.yml`, read our [Getting Started guide]() and [the rest of the documentation]().
 
 
+## travis-ci.org badges
+
+Here is a sample status icon showing the state of the master branch:
+
+[![Build Status](https://secure.travis-ci.org/travis-ci/travis-ci-clojure-example.png?branch=master)](http://travis-ci.org/travis-ci/travis-ci-clojure-example)
+
+
 ## Support
 
 If you have any questions, we are in `#travis` on irc.freenode.net, on Twitter [@travisci](http://twitter.com/travisci) and have a [mailing list](https://groups.google.com/forum/#!forum/travis-ci).
