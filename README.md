@@ -13,7 +13,9 @@ and run tests with
 
     lein test
 
-For travis-ci.org integration bits, see `.travis.yml`, read our [Getting Started guide]() and [the rest of the documentation]().
+This is what Travis CI Clojure builder will run by default.
+
+For more information, see `.travis.yml`, read our [Getting Started guide](http://about.travis-ci.org/docs/user/getting-started/) and [the rest of the documentation](http://about.travis-ci.org/).
 
 
 ## travis-ci.org badges
